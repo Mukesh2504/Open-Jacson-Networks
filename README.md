@@ -1,3 +1,5 @@
+# Date:26.10.2024
+
 # Ex-06
 # Series Queues with infinite capacity - Open Jackson Network
 
